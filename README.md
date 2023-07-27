@@ -10,7 +10,6 @@ It is a simple project based on website about crowdfunding which can give you a 
 
 ## Instalation
 * git clone git@github.com:yovandermawan2123/donalink-laravel.git
-* git clone
 * cd dona-link
 * composer install
 * copy .env.example .env
